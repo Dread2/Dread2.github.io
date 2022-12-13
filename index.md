@@ -1,6 +1,6 @@
 # Hello World 
 
-This is my home page! My name is Julian and I am a student at [Cal State Fullerton](http://www fullerton.edu/) and my majors are Computer Science and Computer Engineering. 
+This is my home page! My name is Julian and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my majors are Computer Science and Computer Engineering. 
 
 ## Computer Science Projects 
 
